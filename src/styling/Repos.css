@@ -1,0 +1,10 @@
+.RepoContainer{
+  border-bottom:1px solid black;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+.space{
+  display: flex;
+  justify-content: space-between;
+}
